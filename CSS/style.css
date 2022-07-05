@@ -19,3 +19,8 @@ footer {
     border-style: double;
     border-radius: 18px;
 }
+
+ul a {
+    color: white;
+    text-decoration: none;
+}
