@@ -33,6 +33,7 @@ li {
     text-align: center;
     background-color: dimgrey;
     color: floralwhite;
+    border: 1px solid white;
 }
 
 li:hover {
